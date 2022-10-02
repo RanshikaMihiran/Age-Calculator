@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="txtAns">Your answer will be apper here</string>
+</resources>
